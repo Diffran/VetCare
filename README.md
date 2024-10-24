@@ -6,6 +6,10 @@ This project consists of creating a **contact form interface** for a veterinary 
 ## Used Technologies
 * **ASP.NET**
 * **Visual Studio Code**
+* **JavaScript**
+* **html**
+* **css**
+  
 
 <div align="center">
   <img src="https://i.imgur.com/TyetBFx.png" alt="form interface"/>
